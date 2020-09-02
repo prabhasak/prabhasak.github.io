@@ -1,22 +1,24 @@
 ---
-title: 'MineRL Competition - NeurIPS 2020'
+title: 'Sample-efficient imitation learning using human priors'
+collection: projects
 date: 2020-09-01
 permalink: /projects/minecraft
+author_profile: false
+excerpt: 'MineRL Competition - NeurIPS 2020, Aug 2020 – present.'
+github: 'https://github.com/prabhasak/MineRL-NeurIPS-2020'
 tags:
   - Python
   - MineRL
   - Minecraft
   - Microsoft Malmo
+  - Reinforcement Learning
   - Imitation Learning
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
+Description
 ======
+The idea is to develop sample efficient Reinforcement Learning and Imitation Learning algorithms using human priors, for solving complex, hierarchical, sparse environments, with constraints on training time and compute.
 
-You can have many headings
-======
+More specifically, the goal is to obtain a Diamond object in Minecraft using the [MineRL](https://minerl.io/docs/) datatset and Microsoft’s [Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/) simulator.
 
-Aren't headings cool?
-------
+This is a work in collaboration with my labmates, so I am unable to share a link to the project's GitHub repository. Please feel free to reach me if you would like a sneak-peek into the codebase!

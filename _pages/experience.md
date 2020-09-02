@@ -1,6 +1,7 @@
 ---
-permalink: /experience/
+layout: archive
 title: "Experience"
+permalink: /experience/
 author_profile: false
 redirect_from: 
 #   - /experience/
@@ -13,6 +14,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.experience reversed %}
   {% include archive-single.html %}
 {% endfor %}

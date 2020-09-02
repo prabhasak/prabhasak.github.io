@@ -20,7 +20,7 @@ Since last summer, I have been part of the Laboratory for Embedded & Networked S
 
 </div>
 
-I am an avid traveler looking forward to the post-COVID world (11/52 U.S. states). Check out my Graduate Student [series](https://www.instagram.com/explore/tags/talesattamu/) and an [article](https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html) by A&M. I am also a [memer](https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/), [Cinephile](https://letterboxd.com/prabhasa/), and [Mangaphile](https://myanimelist.net/profile/prabhasa).
+I am an avid traveler looking forward to the post-COVID world (11/52 U.S. states). Check out my Graduate Student [series](https://www.instagram.com/explore/tags/talesattamu/) and an [article](https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html) by A&M. I am also a [memer](https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/), [cinephile](https://letterboxd.com/prabhasa/), and [mangaphile](https://myanimelist.net/profile/prabhasa).
 
 **Research Interests:** ML, RL, Autonomous vehicles, Algorithms.
 
