@@ -1,5 +1,5 @@
 ---
-title: 'Learning from demonstrations: A case study on Autonomous UAV Landing'
+title: "Learning from demonstrations: A case study on Autonomous UAV Landing"
 collection: experience
 date: 2020-09-01
 permalink: /experience/masters-thesis

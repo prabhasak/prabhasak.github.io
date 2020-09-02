@@ -1,10 +1,10 @@
 ---
-title: 'Sample-efficient imitation learning using human priors'
+title: "Sample-efficient imitation learning using human priors"
 collection: projects
 date: 2020-09-01
 permalink: /projects/minecraft
 author_profile: false
-excerpt: 'MineRL Competition - NeurIPS 2020, Aug 2020 – present.'
+excerpt: "MineRL Competition - NeurIPS 2020, Aug 2020 – present."
 github: 'https://github.com/prabhasak/MineRL-NeurIPS-2020'
 tags:
   - Python
