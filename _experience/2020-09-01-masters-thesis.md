@@ -37,7 +37,11 @@ To summarize, we captured a pilot’s intuition to navigate and land drones on a
 
 <!-- </div> -->
 
-<figure>
-  <img src="https://prabhasak.github.io/files/AirSim.gif" alt="AirSim"/>
+<!-- <figure>
+  <img src="https://prabhasak.github.io/files/AirSim.gif" alt="AirSim" width=100/>
   <figcaption>Autonomous UAV navigation and landing in Microsoft AirSim.</figcaption>
-</figure>
+</figure> -->
+
+<p align="center">
+<img src="https://prabhasak.github.io/files/AirSim.gif" alt="AirSim"/>
+</p>
