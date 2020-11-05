@@ -35,8 +35,9 @@ To summarize, we captured a pilot’s intuition to navigate and land drones on a
 <b> Slides from my thesis defense can be accessed <a href="https://prabhasak.github.io/files/Thesis_final.pdf">here</a>. For the more patient folks, my thesis is also publicly available <a href="https://prabhasak.github.io/files/Thesis_Prabhasa_Kalkur.pdf">here</a>. Codebase for the first half of this work can be found <a href="https://github.com/prabhasak/masters-thesis">here</a>.<b> <br><br>
 <!-- GitHub for this work can be found at <h1>{{ page.github }}</h1>. -->
 
-</div>
+<!-- </div> -->
 
-<img src="https://prabhasak.github.io/files/AirSim.gif" />
-<!-- <img src="https://prabhasak.github.io/files/AirSim.gif" alt="Autonomous UAV navigation and landing in Microsoft AirSim" /> -->
-
+<figure>
+  <img src="https://prabhasak.github.io/files/AirSim.gif" alt="AirSim"/>
+  <figcaption>Autonomous UAV navigation and landing in Microsoft AirSim.</figcaption>
+</figure>
