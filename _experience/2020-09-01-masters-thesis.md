@@ -32,8 +32,10 @@ I used sample-efficient IL methods to learn behaviors of two sparsely rewarded s
 
 To summarize, we captured a pilot’s intuition to navigate and land drones on a simulated ship deck, demonstrating the sample efficiency of Imitation Learning methods (GAIL). We achieved an imitation accuracy of 84% with just 10 human demonstrations. A short video of training is available <a href="https://youtu.be/oj4y8GOq4gk">here</a>. We visualized results with Weights & Biases, the reports are available <a href="https://wandb.ai/prabhasak/masters-thesis/reportlist?workspace=user-prabhasak">here</a>. Details on the second application of my thesis can be found on the Projects page <a href="http://prabhasak.github.io/projects/minecraft">here</a>. <br><br>
 
-<b> Slides from my thesis defense can be accessed <a href="https://prabhasak.github.io/files/Thesis_final.pdf">here</a>. For the more patient folks, my thesis is also publicly available <a href="https://prabhasak.github.io/files/Thesis_Prabhasa_Kalkur.pdf">here</a>. Codebase for the first half of this work can be found <a href="https://github.com/prabhasak/masters-thesis">here</a>.<b> <br><br>
-<!-- GitHub for this work can be found at <h1>{{ page.github }}</h1>. -->
+<b> Slides from my thesis defense can be accessed <a href="https://prabhasak.github.io/files/Thesis_final.pdf">here</a>. Codebase for the first half of this work can be found <a href="https://github.com/prabhasak/masters-thesis">here</a>.<b> <br><br>
+
+<!-- For the more patient folks, my thesis is also publicly available <a href="https://prabhasak.github.io/files/Thesis_Prabhasa_Kalkur.pdf">here</a>.  -->
+
 
 <!-- </div> -->
 
