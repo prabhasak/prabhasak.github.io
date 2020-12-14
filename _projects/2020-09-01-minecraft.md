@@ -26,3 +26,7 @@ The goal is to develop sample-efficient Reinforcement Learning and Imitation Lea
 Specifically, I used DQfD for learning to chop trees and mine diamonds in Minecraft. as opposed to learning behavior purely from RL. For the task of chopping trees, RL algorithms trained on demonstrations (DQfD) performed 10x better than the plain RL equivalent of Deep-Q Networks (DQN). Details of the project are available as part of my thesis defense and can be accessed <a href="https://prabhasak.github.io/files/Thesis_final.pdf">here</a> (from slide 79). The codebase is available <a href="https://github.com/prabhasak/masters-thesis">here</a>. Please feel free to reach me if you would like to know more about the competition :)
 
 </div>
+
+<p align="center">
+<img src="https://prabhasak.github.io/files/minerl.gif" alt="MineRL" />
+</p>
