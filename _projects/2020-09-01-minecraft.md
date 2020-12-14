@@ -27,6 +27,8 @@ Specifically, I used DQfD for learning to chop trees and mine diamonds in Minecr
 
 </div>
 
+<br><br> <br><br>
+
 <p align="center">
 <img src="https://prabhasak.github.io/files/minerl.gif" alt="MineRL" />
 </p>
