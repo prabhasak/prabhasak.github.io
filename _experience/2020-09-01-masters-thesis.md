@@ -32,7 +32,7 @@ Current control systems do not capture the intuition and decision-making skills 
 
 To summarize, a model was designed to capture a pilot’s intuition to navigate and land drones on a simulated ship deck. The learned model achieved an imitation accuracy of 84% with just 10 human demonstrations, demonstrating the sample efficiency of imitation learning methods (GAIL). A short video of training is available <a href="https://youtu.be/oj4y8GOq4gk">here</a>. Performance metrics were visualized with Weights & Biases, and the reports are available <a href="https://wandb.ai/prabhasak/masters-thesis/reportlist?workspace=user-prabhasak">here</a>. <br><br>
 
-<b> Slides for this application can be accessed <a href="https://prabhasak.github.io/files/Masters_Thesis_Prabhasa_Kalkur_Slides_pdf_friendly_1.pdf">here</a>. Codebase for the first half of this work can be found <a href="https://github.com/prabhasak/masters-thesis">here</a>.<b>. For the more patient folks, my thesis is also publicly available <a href="https://prabhasak.github.io/files/Masters_Thesis_Prabhasa_Kalkur.pdf">here</a>. <br><br> <br><br>
+<b> Slides for this application can be accessed <a href="https://prabhasak.github.io/files/Masters_Thesis_Prabhasa_Kalkur_Slides_pdf_friendly_1.pdf">here</a>. Codebase for the first half of this work can be found <a href="https://github.com/prabhasak/masters-thesis">here</a>.<b>. I also made a short 3-minute video as part of a University competition, available <a href="https://vimeo.com/472405835">here</a>. For the more patient folks, my thesis is also publicly available <a href="https://prabhasak.github.io/files/Masters_Thesis_Prabhasa_Kalkur.pdf">here</a>. <br><br> <br><br>
 
 
 <!-- </div> -->
