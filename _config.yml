@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &PK_HandlingLife
+  username               : #&PK_HandlingLife
 facebook:
   username               :
   app_id                 :
