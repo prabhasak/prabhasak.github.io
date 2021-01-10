@@ -1,7 +1,7 @@
 ---
 title: "Classification Algorithms for Supervised Learning on popular datasets"
 collection: projects
-date: 2021-09-01
+date: 2020-09-01
 permalink: /projects/supervised
 author_profile: false
 excerpt: "ECEN-689 Machine learning course at Texas A&M University (Spring 2019), Mar 2019 – Apr 2019."
