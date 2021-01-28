@@ -4,7 +4,7 @@ collection: projects
 date: 2020-09-01
 permalink: /projects/supervised
 author_profile: false
-excerpt: "ECEN-689 Machine learning course at Texas A&M University (Spring 2019), Mar 2019 – Apr 2019."
+excerpt: "Homeworks from the ECEN-689 Machine learning course at Texas A&M University (Spring 2019), Mar 2019 – Apr 2019."
 github: 'https://github.com/prabhasak/supervised'
 tags:
   - Bayes Classification

@@ -27,7 +27,7 @@ Specifically, I used Deep Q-learning from Demonstrations (DQfD) for learning to 
 
 </div>
 
-<br><br> <br><br>
+<br><br>
 
 <p align="center">
 <img src="https://prabhasak.github.io/files/P3-minerl.gif" alt="MineRL" />
