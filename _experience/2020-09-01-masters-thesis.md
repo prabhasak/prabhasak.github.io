@@ -30,9 +30,9 @@ There was an <a href="https://openai.com/blog/openai-five-defeats-dota-2-world-c
 
 Conventional AI models learn from conditioning- where behavior is encouraged via a reward or discouraged via punishment. Think of spraying water on your dog when he bites the couch or treating him for a job well done. Humans are better learners than AI for one major reason: we not only learn from conditioning but also learn from observation. You may have seen videos of cute babies trying to imitate their parents do things, or dogs trying to mimic their owner’s actions. Cognitive Science and behavioral studies show that humans and animals fundamentally learn behavior through <b>imitation</b>, thanks to the brilliant coordination between our eyes and the brain. This isn’t just “monkey see, monkey do,” we internalize factors such as context, which results in the development of <b>intuition</b>. <br><br>
 
-<!-- <p align="center"> -->
+<p align="center">
 <img src="https://prabhasak.github.io/files/E3-baby.jpg" alt="Baby"/>
-<!-- </p> -->
+</p> <br><br>
 
 In this data-centric era, many real-world problems have readily available human demonstration data for performing the task. <b>Can we leverage demonstration data, to reduce our sample requirements? Can conventional AI models learn context and capture intuition by referring to data of a human performing tasks?</b> Sample-efficient methods like imitation learning (IL) leverage human demonstrations to generate the desired behavior. IL has proven to be effective in problems with singular tasks, especially on tasks related to robotic manipulation and autonomous vehicles. <br><br>
 
