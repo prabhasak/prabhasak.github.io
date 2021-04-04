@@ -38,6 +38,10 @@ Interestingly, many real-world problems have readily available human demonstrati
 
 <b>For my Thesis, I taught ML models to fly drones and perform tasks in a video game (both in simulation) by using human demonstrations of two real-world systems: Unmanned Aerial Vehicles (UAVs) and Minecraft</b>. The challenge for learning these behaviors was two-fold: (i) they are complex systems with hierarchical tasks, and (ii) the goals are sparsely rewarded, so it is hard to incentivize learning. Here, I will talk about IL's application to UAVs. Details on the second application of my thesis can be found on the Projects page <a href="http://prabhasak.github.io/projects/minecraft">here</a>. <br><br>
 
+<p align="center">
+<img src="https://prabhasak.github.io/files/E3-AirSim.gif" alt="AirSim"/>
+</p>
+
 Current control systems do not capture the intuition and decision-making skills behind a pilot's maneuvers, which can be crucial for landing under uncertainties. For this, I helped design a novel method of autonomous UAV landing using only human demos and a visual cue for positioning. Specifically, I applied imitation learning algorithms on a trained pilot's point-to-point maneuvers of a drone in Microsoft AirSim, in order to learn an ML model that imitates the pilot's behavior. I demonstrated sample-efficient imitation by learning from as few as 10 pilot demonstrations of the task and comment on the need for 'smooth' experts for learning smooth landings. To summarize, an ML model was designed to capture a pilot’s intuition to navigate and land drones on a simulated ship deck. The learned ML model achieved a high imitation accuracy, demonstrating the sample efficiency of imitation learning methods.<br><br>
 
  <b>Slides</b> for this application can be accessed <a href="https://prabhasak.github.io/files/E3-Masters_Thesis_Prabhasa_Kalkur_Slides_pdf_friendly_1.pdf">here</a>. <b>Codebase</b> for the first half of this work can be found <a href="https://github.com/prabhasak/masters-thesis">here</a>. A short video of <b>training</b> the ML model is available <a href="https://youtu.be/oj4y8GOq4gk">here</a>. Performance metrics were visualized with Weights & Biases, and the <b>reports</b> are available <a href="https://wandb.ai/prabhasak/masters-thesis/reportlist?workspace=user-prabhasak">here</a>. I also made a short 3-minute <b>video</b> as part of a University competition, available <a href="https://vimeo.com/472405835">here</a>. For the more patient folks, my <b>thesis</b> is also publicly available <a href="https://prabhasak.github.io/files/E3-Masters_Thesis_Prabhasa_Kalkur.pdf">here</a>. <br><br>
@@ -49,7 +53,3 @@ Current control systems do not capture the intuition and decision-making skills 
   <img src="https://prabhasak.github.io/files/AirSim.gif" alt="AirSim" width=100/>
   <figcaption>Autonomous UAV navigation and landing in Microsoft AirSim.</figcaption>
 </figure> -->
-
-<p align="center">
-<img src="https://prabhasak.github.io/files/E3-AirSim.gif" alt="AirSim"/>
-</p>
