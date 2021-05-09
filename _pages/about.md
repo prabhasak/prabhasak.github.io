@@ -25,7 +25,7 @@ I am currently an Intern at SAP's Center of Excellence (CoE) in Newtown Square, 
 
 </div>
 
-I am an avid traveler looking forward to the post-COVID world (11/52 U.S. states). Check out my Graduate Student [series](https://www.instagram.com/explore/tags/talesattamu/) and an [article](https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html) by A&M. I am also a [memer](https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/), [cinephile](https://letterboxd.com/prabhasa/), and [mangaphile](https://myanimelist.net/profile/prabhasa).
+I am an avid [traveler](https://maps.app.goo.gl/ipaCcLzR6YeV8AjHA) looking forward to the post-COVID world (11 U.S. states, 10 National Parks). Check out my Graduate Student [series](https://www.instagram.com/explore/tags/talesattamu/) and an [article](https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html) on my shenanigans at Texas A&M University. I am also a [cinephile](https://letterboxd.com/prabhasa/), [mangaphile](https://myanimelist.net/profile/prabhasa), and a devout [memer](https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/).
 
 **Interests:** Machine Learning, Deep Learning, Reinforcement Learning, Data Science, Optimization, Supply Chain Industry, Data Structures and Algorithms.
 

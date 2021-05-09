@@ -12,7 +12,8 @@ locale                   : "en-US"
 title                    : "Prabhasa Kalkur"
 title_separator          : "-"
 name                     : &name "Prabhasa Kalkur"
-description              : &description "Graduate Research student at Texas A&M University"
+description              : &description "Intern at SAP America, Inc."
+# description              : &description "Graduate Research student at Texas A&M University"
 url                      : https://prabhasak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prabhasak/prabhasak.github.io"
@@ -83,8 +84,8 @@ analytics:
 # Site Author
 author:
   name             : "Prabhasa Kalkur"
-  avatar           : "me.jpg"
-  bio              : "Graduate Student"
+  avatar           : "TAMU.jpg"
+  bio              : "Another Indian Engineer in the US"
   location         : "Texas, USA"
   employer         :
   github           : "prabhasak"
