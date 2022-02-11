@@ -20,9 +20,7 @@ Currently, I work at SAP's Center of Expertise (CoE) in Pennsylvania, USA. As pa
 
 </div>
 
-I am an avid traveler looking forward to the post-COVID world (12 U.S. states, 10 National Parks). Check out my Graduate Student [series](https://www.instagram.com/explore/tags/talesattamu/) and an [article](https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html) on my shenanigans at Texas A&M University. I am also a [cinephile](https://letterboxd.com/prabhasa/), [telephile](https://www.tvtime.com/en/user/57933524/profile), and [mangaphile](https://myanimelist.net/profile/prabhasa).
-
-<!-- And a devout [memer](https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/). -->
+I spend most of my awake time as a [cinephile](https://letterboxd.com/prabhasa/), [telephile](https://www.tvtime.com/en/user/57933524/profile), [mangaphile](https://myanimelist.net/profile/prabhasa), and a devout [memer](https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/) (caution: Game of Thrones reference). I am also a [travel](https://goo.gl/maps/FruobYpsu3Gxoshk8) enthusiast looking forward to the post-COVID world (4 countries, 15 U.S. states, 15+ U.S. National Parks and counting). Check out my Graduate Student [series](https://www.instagram.com/explore/tags/talesattamu/) and an [article](https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html) on my shenanigans at Texas A&M University.
 
 **Interests:** Machine Learning, Deep Learning, Reinforcement Learning, Data Science, Optimization, Data Structures and Algorithms.
 
