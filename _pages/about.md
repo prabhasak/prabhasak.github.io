@@ -11,7 +11,7 @@ redirect_from:
 <br>
 <div style="text-align: justify">
 
-<b>Hi there!</b> I am an engineering graduate and work in the Supply Chain space as a Consultant at SAP America Inc. based out of the United States. I work directly with customers to design, integrate, and configure their networks with the help of SAP Integrated Business Planning (SAP IBP), primarily for demand, inventory, and supply planning. Here, I had the opportunity to work in projects with several industries: pharmaceuticals (Johnson & Johnson), auto & parts (General Motors), energy (Suncor), consumer goods (Alicorp), and beverages (The Coca-Cola Company). <br><br>
+<b>Hi there!</b> I am an engineering graduate and work in the Supply Chain space as a Consultant at SAP America Inc., based out of the United States. I work with customers to design, integrate, and configure their networks with the help of SAP Integrated Business Planning solution. Here, I have the opportunity to work on projects encompassing several industries: pharmaceuticals (Johnson & Johnson), auto parts (General Motors), energy (Suncor), consumer goods (Alicorp), and beverages (The Coca-Cola Company). <br><br>
 <!-- Suncor (integration), Alicorp (demand), J&J (inventory), GM (time-series based supply planning), and The Coca-Cola Company (order-based supply planning) -->
 
 Prior to SAP, I graduated with a Master of Science in Electrical Engineering from Texas A&M University, specializing in Machine Learning. I have since been fascinated by its ever-growing applications in both supply chain planning and outside. Explore the <a href="http://prabhasak.github.io/experience">Experience</a> and <a href="http://prabhasak.github.io/projects">Projects</a> pages for more info. A pdf link to my resume is <a href="https://prabhasak.github.io/files/Resume_Prabhasa_Kalkur.pdf">here</a> (updated July 2022). <br><br>
@@ -38,3 +38,4 @@ Other interests: In the world of social media <a href="https://www.webmd.com/bal
 <!-- Other Skills: Perhaps one day I will gather enough willpower to expand this page with more insights into my pursuits (my procrastinator side: <a href="https://knowyourmeme.com/memes/we-dont-do-that-here">"We don't do that here"</a>).  -->
 <!-- devout <a href="https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/">memer</a> -->
 <!-- even more so with the advent of the GenAI hype (<a href="https://www.youtube.com/playlist?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e">"What a time to be alive!"</a>) -->
+<!-- , primarily for demand, inventory, and supply planning -->
