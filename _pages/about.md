@@ -11,10 +11,10 @@ redirect_from:
 <br>
 <div style="text-align: justify">
 
-<b>Hi there!</b> I am an engineering graduate and dabble in the Supply Chain space as a Consultant at SAP America Inc., based out of the United States. I work with customers to design, integrate, and configure their networks with the help of SAP Integrated Business Planning solution. Here, I have the opportunity to collaborate on projects encompassing several industries: pharmaceuticals (Johnson & Johnson), auto parts (General Motors), energy (Suncor), consumer goods (Alicorp), and beverages (The Coca-Cola Company). <br><br>
+<b>Hi there!</b> I am an engineering graduate and dabble in the Supply Chain space as a Consultant at SAP America Inc., based out of the United States. I work with customers to design, integrate, and configure their networks with SAP's Integrated Business Planning solution. Here, I have had the opportunity to collaborate on projects across several industries, to note a few: pharmaceuticals (Johnson & Johnson), auto parts (General Motors), energy (Suncor), consumer goods (Alicorp), and beverages (The Coca-Cola Company). <br><br>
 <!-- Suncor (integration), Alicorp (demand), J&J (inventory), GM (time-series based supply planning), and The Coca-Cola Company (order-based supply planning) -->
 
-Prior to SAP, I graduated with a Master of Science in Electrical Engineering from Texas A&M University, specializing in Machine Learning. I have since been fascinated by its ever-growing applications in both supply chain planning and outside. Explore the <a href="http://prabhasak.github.io/experience">Experience</a> and <a href="http://prabhasak.github.io/projects">Projects</a> pages for more info. A pdf link to my resume is <a href="https://prabhasak.github.io/files/Resume_Prabhasa_Kalkur.pdf">here</a> (updated July 2022). <br><br>
+Prior to SAP, I graduated with a Master of Science in Electrical Engineering from Texas A&M University, specializing in Machine Learning. I have since been fascinated by its ever-growing applications in both supply chain planning and outside. Explore the <a href="http://prabhasak.github.io/experience">Experience</a> and <a href="http://prabhasak.github.io/projects">Projects</a> pages for more info. A pdf link to my resume (updated July 2022) is <a href="https://prabhasak.github.io/files/Resume_Prabhasa_Kalkur.pdf">here</a>. <br><br>
 
 <b>Outside work</b>, I am a...
 
@@ -22,7 +22,7 @@ Prior to SAP, I graduated with a Master of Science in Electrical Engineering fro
 
   <li>Social butterfly, volunteering in leadership roles and attempting to <a href="https://youtu.be/lRkZ7uVHyQA?si=UKyk_0JgWwkEjj5y">showcase</a> and promote India's culture through <a href="https://www.nkkphila.org/comi">local communities</a>. During my days at Texas A&M, I sketched a Graduate Student <a href="https://www.instagram.com/explore/tags/talesattamu/">series</a> and featured in an <a href="https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html">article</a> by the university.</li>
 
-  <li><a href="https://goo.gl/maps/FruobYpsu3Gxoshk8">Travel</a> enthusiast, having had the fortune of visiting 5/195 countries, 37/50 U.S. states, 40/63 U.S. National Parks (as of Jan 2025). My dream destinations are Japan & Switzerland.</li>
+  <li><a href="https://goo.gl/maps/FruobYpsu3Gxoshk8">Travel</a> enthusiast, having had the fortune of visiting 5/195 countries, 37/50 U.S. states, 40/63 U.S. National Parks (updated Jan 2025). My dream destinations are Japan & Switzerland.</li>
 
   <li>Self-proclaimed <a href="https://letterboxd.com/prabhasa/">cinephile</a>, <a href="https://app.tvtime.com/user/57933524?referrer_id=57933524">telephile</a>, <a href="https://myanimelist.net/profile/prabhasa">animangaphile</a>, and a devout <a href="https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/">memer</a>.</li>
 
