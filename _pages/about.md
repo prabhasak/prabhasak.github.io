@@ -11,24 +11,22 @@ redirect_from:
 <br>
 <div style="text-align: justify">
 
-<b>Hi there!</b> I am an engineering graduate and work in the Supply Chain space as a Business Processes Consultant at SAP America Inc. in the United States. I dabble in Supply Chain Planning solutions, particularly demand, inventory, and supply planning. I work directly with customers to design, integrate, and configure their supply chain networks with the help of SAP's Integrated Business Planning (IBP) tool. <br><br>
-
-In my role at SAP, I have had the opportunity to implement projects and PoCs for industries such as pharmaceuticals (J&J), auto & parts (GM), energy (Suncor), consumer goods (Alicorp), and beverages (The Coca-Cola Company). In the advent of the Gen-AI era, I also look forward to working closely with our in-house Joule AI for SAP IBP. <br><br>
+<b>Hi there!</b> I am an engineering graduate and work in the Supply Chain space as a Consultant at SAP America Inc. based out of the United States. I work directly with customers to design, integrate, and configure their networks with the help of SAP Integrated Business Planning (SAP IBP), primarily for demand, inventory, and supply planning. Here, I had the opportunity to work in projects with several industries: pharmaceuticals (Johnson & Johnson), auto & parts (General Motors), energy (Suncor), consumer goods (Alicorp), and beverages (The Coca-Cola Company). <br><br>
 <!-- Suncor (integration), Alicorp (demand), J&J (inventory), GM (time-series based supply planning), and The Coca-Cola Company (order-based supply planning) -->
 
-Prior to SAP, I graduated with a Master of Science in Electrical Engineering from Texas A&M University, specializing with a Thesis in Reinforcement Learning. I have since been fascinated by its ever-growing applications in both supply chain planning and outside. Explore the <a href="http://prabhasak.github.io/experience">Experience</a> and <a href="http://prabhasak.github.io/projects">Projects</a> pages for more info. A pdf link to my resume is <a href="https://prabhasak.github.io/files/Resume_Prabhasa_Kalkur.pdf">here</a> (updated July 2022). <br><br>
+Prior to SAP, I graduated with a Master of Science in Electrical Engineering from Texas A&M University, specializing in Machine Learning. I have since been fascinated by its ever-growing applications in both supply chain planning and outside. Explore the <a href="http://prabhasak.github.io/experience">Experience</a> and <a href="http://prabhasak.github.io/projects">Projects</a> pages for more info. A pdf link to my resume is <a href="https://prabhasak.github.io/files/Resume_Prabhasa_Kalkur.pdf">here</a> (updated July 2022). <br><br>
 
 <b>Outside work</b>, I am a...
 
 <ol type="1">
 
-  <li>Social butterfly, occassionally dabbling in leadership roles and attempting to <a href="https://youtu.be/lRkZ7uVHyQA?si=UKyk_0JgWwkEjj5y">showcase</a> and promote India's culture through <a href="https://www.nkkphila.org/comi">local communities</a>. During my shenanigans at Texas A&M, I started a Graduate Student <a href="https://www.instagram.com/explore/tags/talesattamu/">series</a> and was featured in an <a href="https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html">article</a> by the university.</li>
+  <li>Social butterfly, occassionally dabbling in leadership roles and attempting to <a href="https://youtu.be/lRkZ7uVHyQA?si=UKyk_0JgWwkEjj5y">showcase</a> and promote India's culture through <a href="https://www.nkkphila.org/comi">local communities</a>. During my days at Texas A&M, I sketched a Graduate Student <a href="https://www.instagram.com/explore/tags/talesattamu/">series</a> and featured in an <a href="https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html">article</a> by the university.</li>
 
-  <li><a href="https://goo.gl/maps/FruobYpsu3Gxoshk8">Travel</a> enthusiast, having had the fortune of visiting 5/195 countries, 37/50 U.S. states, 40/63 U.S. National Parks (as of Jan 2025). My dream destinations are Japan (anime!) and Switzerland.</li>
+  <li><a href="https://goo.gl/maps/FruobYpsu3Gxoshk8">Travel</a> enthusiast, having had the fortune of visiting 5/195 countries, 37/50 U.S. states, 40/63 U.S. National Parks (as of Jan 2025). My dream destinations are Japan & Switzerland.</li>
 
   <li>Self-proclaimed <a href="https://letterboxd.com/prabhasa/">cinephile</a>, <a href="https://app.tvtime.com/user/57933524?referrer_id=57933524">telephile</a>, <a href="https://myanimelist.net/profile/prabhasa">animangaphile</a>, and a devout <a href="https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/">memer</a>.</li>
 
-</ol> <br><br>
+</ol>
 
 Other interests: In the world of social media <a href="https://www.webmd.com/balance/what-is-doomscrolling">doomscrolling</a> and <a href="https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/">brainrot</a>, I wish to catch up on some reading (missing Goodreads link owing to minimal activity) and <a href="https://open.spotify.com/user/315huxqcj3bimm6b7xmhgz5ubunq?si=3fdf90eb18b74400">music</a> to better address my challenges with short attention span. Feel free to connect on <a href="https://www.instagram.com/insta.pk/">Instagram</a> if we know each other! <br><br>
 
