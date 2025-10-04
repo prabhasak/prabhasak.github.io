@@ -20,7 +20,7 @@ Prior to SAP, I graduated with a Master of Science in Electrical Engineering fro
 
 <ol type="i">
 
-  <li>Social butterfly, volunteering in leadership roles in <a href="https://www.nkkphila.org/comi">local communities</a>. I also enjoy showcasing India's culture through <a href="https://youtu.be/lRkZ7uVHyQA">theatre</a> and <a href="https://youtu.be/ezwyRppGDXk">music</a>. During my days at Texas A&M, I sketched a Graduate Student <a href="https://www.instagram.com/explore/tags/talesattamu/">series</a> and featured in an <a href="https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html">article</a> by the university.</li>
+  <li>Social butterfly, volunteering in leadership roles in <a href="https://www.nkkphila.org/comi">local communities</a>. I also enjoy showcasing India's culture through <a href="https://youtu.be/lRkZ7uVHyQA&t=24">theater</a> (as Hanuman) and <a href="https://youtu.be/ezwyRppGDXk">music</a>. During my days at Texas A&M, I sketched a Graduate Student <a href="https://www.instagram.com/explore/tags/talesattamu/">series</a> and featured in an <a href="https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html">article</a> by the university.</li>
 
   <li><a href="https://goo.gl/maps/FruobYpsu3Gxoshk8">Travel</a> enthusiast, having had the fortune of visiting 5/195 countries, 40/50 U.S. states, 45/63 U.S. National Parks (updated Oct 2025). My dream destinations are Japan & Switzerland.</li>
 
