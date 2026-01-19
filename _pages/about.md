@@ -22,7 +22,7 @@ Prior to SAP, I graduated with a Master of Science in Electrical Engineering fro
 
   <li>Social butterfly, volunteering in leadership roles in <a href="https://www.nkkphila.org/committee">local communities</a>. I also enjoy showcasing India's culture through <a href="https://youtu.be/lRkZ7uVHyQA&t=24">theater</a> (as Hanuman) and <a href="https://youtu.be/ezwyRppGDXk">music</a>. During my days at Texas A&M, I sketched a Graduate Student <a href="https://www.instagram.com/explore/tags/talesattamu/">series</a> and featured in an <a href="https://engineering.tamu.edu/news/2019/05/balancing-engineering-and-creativity.html">article</a> by the university.</li>
 
-  <li><a href="https://goo.gl/maps/FruobYpsu3Gxoshk8">Travel</a> enthusiast, having had the fortune of visiting 5/195 countries, 40/50 U.S. states, 44/63 U.S. National Parks (updated Oct 2025). My dream destinations are Japan & Switzerland.</li>
+  <li><a href="https://goo.gl/maps/FruobYpsu3Gxoshk8">Travel</a> enthusiast, having visited 5/195 countries, 41/50 U.S. states & 2/5 habited territories, 46/63 U.S. National Parks (updated Jan 2026). My dream destinations are Japan & Switzerland.</li>
 
   <li>Self-proclaimed <a href="https://letterboxd.com/prabhasa/">cinephile</a>, <a href="https://app.tvtime.com/user/57933524?referrer_id=57933524">telephile</a>, <a href="https://myanimelist.net/profile/prabhasa">animangaphile</a>, and a devout millenial <a href="https://www.facebook.com/Scratchpad.IGSA/photos/a.534487949954447/2212542242149001/">memer</a>.</li>
 
